@@ -1,1 +1,1 @@
-include ../Makefile.inc
+include ~/work/latex/Makefile.inc
